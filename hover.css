@@ -25,3 +25,8 @@ button:hover {
     transform: translateY(-0.25em);
     cursor:pointer;
 }
+
+a {
+    color: red;
+    text-decoration: none; 
+}
